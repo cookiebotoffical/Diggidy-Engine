@@ -1,4 +1,5 @@
-![GDevelop logo](https://raw.githubusercontent.com/4ian/GDevelop/master/newIDE/GDevelop%20banner.png "GDevelop logo")
+![Diggdiy Engine logo](<img width="1044" height="267" alt="Diggidyengine" src="https://github.com/user-attachments/assets/2086de8c-9f15-47ba-bb4c-7e8c86d387e6" />
+)
 
 Diggidy Engine is a **no-code, open-source** game development software. Which is a fork of the Gdevelop Game engine You can build **2D, 3D and multiplayer games** for mobile (iOS, Android), desktop and the web. GDevelop is fast and easy to use: the game logic is built up using an intuitive and powerful event-based system and reusable behaviors.
 
